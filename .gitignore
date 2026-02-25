@@ -1,0 +1,7 @@
+MinecraftModUpdater.spec
+dist/
+build/
+.vscode/
+.venv/
+.github/
+mods.txt
