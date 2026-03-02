@@ -1,0 +1,1 @@
+.venv/bin/python -m PyInstaller --clean --onefile --windowed --name MinecraftModUpdater --collect-all PySide6 --paths .venv/lib/python3.14/site-packages gui.py
