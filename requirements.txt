@@ -1,0 +1,4 @@
+requests
+tqdm
+PySide6
+pyinstaller
