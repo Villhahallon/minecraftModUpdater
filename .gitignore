@@ -5,3 +5,4 @@ build/
 .venv/
 .github/
 mods.txt
+/core/__pycache__
